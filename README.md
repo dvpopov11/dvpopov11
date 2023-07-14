@@ -10,4 +10,5 @@
 ![DevTool](https://img.shields.io/badge/DevTools-black?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 
