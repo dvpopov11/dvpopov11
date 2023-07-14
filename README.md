@@ -39,4 +39,4 @@
 [Тут](https://github.com/dvpopov11/dvpopov11/blob/master/myfiles/Попов%20Даниил.pdf)
 
 ### Соц. сети и не только
-
+[![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniilpopov)
