@@ -5,4 +5,6 @@
 
 ### Tools
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git&logoColor=white)
+
