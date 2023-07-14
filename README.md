@@ -37,3 +37,6 @@
 
 ### Моё резюме
 [Тут](https://github.com/dvpopov11/dvpopov11/blob/master/myfiles/Попов%20Даниил.pdf)
+
+### Соц. сети и не только
+
