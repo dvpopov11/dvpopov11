@@ -19,4 +19,6 @@
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
+### Тест-кейсы и Чек-листы
+
 
