@@ -36,4 +36,4 @@
 [Тестовое задание для геймдев компании на Youtrack](https://dvpopov.youtrack.cloud/projects/f9361d5b-abb6-482e-b46c-0a0160586772)
 
 ### Моё резюме
-
+[Тут](https://github.com/dvpopov11/dvpopov11/blob/master/myfiles/Попов%20Даниил.pdf)
