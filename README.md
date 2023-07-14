@@ -20,5 +20,6 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
 ### Тест-кейсы и Чек-листы
+[1-й спринт](https://github.com/dvpopov11/dvpopov11/raw/master/myfiles/1-й%20спринт.xlsx)
 
 
