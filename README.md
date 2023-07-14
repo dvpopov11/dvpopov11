@@ -15,5 +15,6 @@
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-black?style=for-the-badge&logo=restapi&logoColor=white)
+![Youtrack](https://img.shields.io/badge/Youtrack-black?style=for-the-badge&logo=youtrack&logoColor=white)
 
 
