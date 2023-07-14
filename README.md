@@ -13,4 +13,6 @@
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white)
+![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml&logoColor=white)
+
 
