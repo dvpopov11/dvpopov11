@@ -42,3 +42,4 @@
 [![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniilpopov)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniilpopov1990/)
 [![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/godlikeLeo)
+[![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/godlikeLeo/)
