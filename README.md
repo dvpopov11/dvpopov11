@@ -25,13 +25,13 @@
 ### Тест-кейсы и Чек-листы
 [1-й спринт](https://docs.google.com/spreadsheets/d/1QBRRqdlRkEz6JdIlrSWEhPRW7InJ4vVh/edit?usp=sharing&ouid=108868298844842757140&rtpof=true&sd=true)
 
-[2-й спринт](https://github.com/dvpopov11/dvpopov11/raw/master/myfiles/2-й%20спринт.xlsx)
+[2-й спринт](https://docs.google.com/spreadsheets/d/1nrx3xysuDcDcYUKgmV5guhVztJkknuSQ/edit?usp=sharing&ouid=108868298844842757140&rtpof=true&sd=true)
 
-[3-й спринт](https://github.com/dvpopov11/dvpopov11/raw/master/myfiles/3-й%20спринт.xlsx)
+[3-й спринт](https://docs.google.com/spreadsheets/d/1Lb5Ikz7rPPdYO1-p0k_qKWflefsZpui_/edit?usp=sharing&ouid=108868298844842757140&rtpof=true&sd=true)
 
-[4-й спринт](https://github.com/dvpopov11/dvpopov11/raw/master/myfiles/4-й%20спринт.docx)
+[4-й спринт](https://docs.google.com/document/d/1ZM4C_jQeYbiFqOV4vqP86gLY6qmqTX7I/edit?usp=sharing&ouid=108868298844842757140&rtpof=true&sd=true)
 
-[Диплом](https://github.com/dvpopov11/dvpopov11/raw/master/myfiles/диплом.xlsx)
+[Диплом](https://docs.google.com/spreadsheets/d/1FkEPgsldXd1sMZs1oYhUJLNEm5TRUdjU/edit?usp=sharing&ouid=108868298844842757140&rtpof=true&sd=true)
 
 ### Баг-репорты
 [Яндекс Практикум на Youtrack](https://dvpopov.youtrack.cloud/projects/58922cb9-3c0d-49a7-8de6-51a7aed00665)
