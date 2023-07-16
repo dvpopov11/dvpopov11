@@ -34,7 +34,7 @@
 [Диплом](https://github.com/dvpopov11/dvpopov11/raw/master/myfiles/диплом.xlsx)
 
 ### Баг-репорты
-[Яндекс Практикум на Youtrack](https://dvpopov.youtrack.cloud/issues?q=project:%20%7Btest-practicum-qa%7D%20State:%20Unresolved#)
+[Яндекс Практикум на Youtrack](https://dvpopov.youtrack.cloud/projects/58922cb9-3c0d-49a7-8de6-51a7aed00665)
 
 [Тестовое задание для геймдев компании на Youtrack](https://dvpopov.youtrack.cloud/projects/f9361d5b-abb6-482e-b46c-0a0160586772)
 
