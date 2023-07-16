@@ -3,6 +3,9 @@
 
 Работал директором магазинов, супервайзером сети магазинов, директором офиса турагентства. Сменил вектор развития, успел поработать в техподдержке. Параллельно изучал азы тестирования "Тестирование ПО для начинающих. SQL, Postman, Jira, Git" - Дмитрий Инешин. Затем решил основательно заняться тем, что мне всегда было интересно. Прошел обучение на QA Engineer'a от Яндекс Практикум. Курс занял полгода, теория и практика. Прочитал пару интересных книг: "Тестирование программного обеспечения" - Святослав Куликов, "Шпаргалка начинающего тестировщика" - Наталия Матвеева. Не останавливаясь, продолжаю обучаться различным инструментам. Софт скиллы должного уровня, управлял сектором из 10 магазинов в двух городах. На текущий момент нахожусь в активном поиске работы.
 
+### Моё резюме
+[Тут](https://github.com/dvpopov11/dvpopov11/blob/master/myfiles/Попов%20Даниил.pdf)
+
 ### Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
@@ -34,9 +37,6 @@
 [Яндекс Практикум на Youtrack](https://dvpopov.youtrack.cloud/issues?q=project:%20%7Btest-practicum-qa%7D%20State:%20Unresolved#)
 
 [Тестовое задание для геймдев компании на Youtrack](https://dvpopov.youtrack.cloud/projects/f9361d5b-abb6-482e-b46c-0a0160586772)
-
-### Моё резюме
-[Тут](https://github.com/dvpopov11/dvpopov11/blob/master/myfiles/Попов%20Даниил.pdf)
 
 ### Соц. сети и не только
 [![VK](https://img.shields.io/badge/VK-black?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/daniilpopov)
