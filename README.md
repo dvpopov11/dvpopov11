@@ -14,6 +14,7 @@
 ![Charles](https://img.shields.io/badge/Charles-black?style=for-the-badge&logo=charles&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=sql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=white)
+![soapUI](https://img.shields.io/badge/SoapUI-black?style=for-the-badge&logo=Soapui&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-black?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-black?style=for-the-badge&logo=xml&logoColor=white)
