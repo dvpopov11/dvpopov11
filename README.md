@@ -24,7 +24,7 @@
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 ![Slack](https://img.shields.io/badge/slack-black?style=for-the-badge&logo=slack&logoColor=white)
 ![Pachca](https://img.shields.io/badge/pachca-black?style=for-the-badge&logo=pachca&logoColor=white)
-![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-badge&logo=testrail&color=white)
+![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-badge&logo=testrail&logoColor=white)
 
 
 ### Тест-кейсы и Чек-листы
