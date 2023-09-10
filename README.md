@@ -27,6 +27,7 @@
 ![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-badge&logo=testrail&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-black?style=for-the-badge&logo=pgAdmin&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-black?style=for-the-badge&logo=confluence&logoColor=white)
 
 
 ### Тест-кейсы и Чек-листы
