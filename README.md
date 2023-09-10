@@ -26,6 +26,7 @@
 ![Pachca](https://img.shields.io/badge/pachca-black?style=for-the-badge&logo=pachca&logoColor=white)
 ![TestRail](https://img.shields.io/badge/TestRail-black?style=for-the-badge&logo=testrail&logoColor=white)
 ![pgAdmin](https://img.shields.io/badge/pgAdmin-black?style=for-the-badge&logo=pgAdmin&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-black?style=for-the-badge&logo=swagger&logoColor=white)
 
 
 ### Тест-кейсы и Чек-листы
